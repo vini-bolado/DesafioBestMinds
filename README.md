@@ -1,3 +1,10 @@
+# Para iniciar o projeto
+
+Entra na pasta da api e usa o comando "npm i" e depois de baixar os pacotes usa "npm start" para iniciar a api.
+
+
+Entra na pasta da front e usa o comando "npm i" e depois de baixar os pacotes usa "npm start" para iniciar o frontend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
